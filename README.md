@@ -26,7 +26,7 @@ npm run build
 
 npm start
 
-# Live demo 
+# Live demo of chatting
 ![Screenshot 2024-08-01 115749](https://github.com/user-attachments/assets/5c5498d2-cbdb-4de6-855b-88dae98768b4)
 
 
